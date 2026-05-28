@@ -1,12 +1,12 @@
 # petite-calculatrice-python
 Mon premier mini projet sur python
-##Fonctionnalités
+## Fonctionnalités
   Addition
   Soustraction
   Multiplication
   Quotient
   Modulo
-##Objectifs
+## Objectifs
   Boucle while 
   Les fonctions
   Return
