@@ -15,6 +15,15 @@ Mon premier mini projet sur python
   - Sinus
   - Cosinus
   - Tangente
+  - 
+## Évolutions par rapport à la Version 2
+  - Ajout d'un historique des calculs effectués
+  - Affichage de l'historique à la fin du programme
+  - Uniformisation du format de retour des fonctions
+  - Chaque opération retourne comme suit :
+        (opérande1, opérande2, résultat):si opération posséde deux opérandes
+        ou
+        (opérande, None, résultat):si opération posséde un seul opérande
 
     
 ## Comcept Python
@@ -25,12 +34,24 @@ Mon premier mini projet sur python
   - Gestioon des execptions (try/except)
   - Gestion de Sortie (quit) 
   - Réutilisation des fonctions
-==> Evolutions par rapport Version 1
-  - Ajout de 6 nouvelles oopérations mathématiques
+==> Evolutions par rapport Version 1:
+  - Ajout de 6 nouvelles opérations mathématiques
   - Remplacement de if/elif par un dictionnaire d'opération
   - Gestion des erreurs plus précis avec except ValueError
   - Code plus simple
-    
+==> evolutions par rapport Version 2:
+  - Les listes
+  - append()
+  - extend()
+  - Parcours de liste avec for
+  - Stockage structuré des données
+  - 
+## Versions du projet
+
+- calculatrice_v1.py : opérations de base
+- calculatrice_v2.py : ajout des opérations avancées et trigonométriques
+- calculatrice_v3.py : ajout de l'historique des calculs
+  
 ## Objectif
 
 Ce projet me permet d'apprendre le python pas à pas en améliorant une méme application étape par étape
