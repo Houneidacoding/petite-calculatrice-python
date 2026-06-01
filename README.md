@@ -57,19 +57,7 @@ Mon premier mini projet sur python
 - calculatrice_v1.py : opérations de base
 - calculatrice_v2.py : ajout des opérations avancées et trigonométriques
 - calculatrice_v3.py : ajout de l'historique des calculs
-- calculatrice_V4.py : affichage plus lisible de l'historique (nombre1 Opération nombre2 = Resultat)
-Exemple:
-25.0 + 36.0 = 61.0
-59.0 - 5.0 = 54.0
-9.0 * 8.0 = 72.0
-562.0 / 56.0 = 10.04
-365.0 % 25.0 = 15.0
-√ 854.0 = 29.22
-( 8.0 )²= 64.0
-8.0 ** 5.0 = 32768.0
-sin ( 45.6 °)= 0.71
-cos ( 95 °)= -0.09
-tan ( 45.8 °)= 1.03
+- calculatrice_V4.py : affichage plus lisible de l'historique (nombre1 Opération nombre2 = Resultat) Exemple: // 25.0 + 36.0 = 61.0 // √ 854.0 = 29.22 // ( 8.0 )²= 64.0 // sin ( 45.6 °)= 0.71
   
 ## Objectif
 
